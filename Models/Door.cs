@@ -10,5 +10,6 @@ namespace MvcRoom.Models
         public int DoorID { get; set; }
         public string Wall { get; set; }
         public int Location { get; set; }
+        public int RoomID { get; set; }
     }
 }
